@@ -15,6 +15,5 @@
             "id": "企业ID（选填，不填请删除 enterpriseWechat 对象）",
             "agentld": "企业微信自建应用AgentId（选填，不填请删除 enterpriseWechat 对象）",
             "secret": "企业微信自建应用Secrets（选填不填请删除 enterpriseWechat 对象）"
-        }
     }
 ]
